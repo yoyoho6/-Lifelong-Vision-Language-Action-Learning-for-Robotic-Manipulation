@@ -1,0 +1,2 @@
+# -Lifelong-Vision-Language-Action-Learning-for-Robotic-Manipulation
+LifelongVLA is a cache-efficient lifelong VLA framework for robotic manipulation. It uses dual-timescale LoRA adapters and task-aware gating to balance rapid skill acquisition with stable retention. A stochastic replay strategy reduces memory cost without full trajectories, enabling efficient continual adaptation and robust real-world deployment.
