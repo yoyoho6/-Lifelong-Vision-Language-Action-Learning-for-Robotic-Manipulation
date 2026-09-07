@@ -1,0 +1,17 @@
+name: xarm-client
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - tyro
+      - opencv-python
+      - imageio
+      - xarm-python-sdk
+      - dm-tree
+      - msgpack
+      - numpy<2
+      - pillow
+      - tree
+      - websockets
